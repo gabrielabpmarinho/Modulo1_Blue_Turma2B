@@ -1,0 +1,2 @@
+print("certo!")
+*args, **kwargs
